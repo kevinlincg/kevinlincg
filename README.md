@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is the place where I opensource stuff and break things :rofl:
 
-<!--
-**kevinlincg/kevinlincg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=kevinlincg&theme=dark&show_icons=true&count_private=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 
-Here are some ideas to get you started:
+- 🔭I’m currently working on something cool :wink:
+-   :hammer_and_pick: C++ / Golang / TypeScript / Vue / Python
+- 📫How to reach me: [@kevinlincg](https://twitter.com/kevinlincg) 
+-   :thought_balloon: Ask me anything at [Discussions](https://github.com/kevinlincg/kevinlincg/discussions/new)!
+- 🚀 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+---
+
+#### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
