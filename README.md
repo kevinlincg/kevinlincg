@@ -39,4 +39,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 #### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
