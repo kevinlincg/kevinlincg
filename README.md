@@ -1,6 +1,6 @@
 ### Hi there. I'm Kevin 👋
 
-- 🔭I’m currently working on GameFi, Service mesh, DDD
+- 🔭I’m currently working on GameFi, Service mesh, DDD, Game Server
 - 🌱 I’m currently learning golang,k8s
 -   :hammer_and_pick: C++ / Golang / TypeScript / Vue / Python
 - 📫How to reach me: [@kevinlincg](https://twitter.com/kevinlincg) 
