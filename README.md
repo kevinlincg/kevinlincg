@@ -5,10 +5,6 @@
 -   :hammer_and_pick: C++ / Golang / TypeScript / Vue / Python
 - 📫How to reach me: [@kevinlincg](https://twitter.com/kevinlincg) 
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/kevinlincg/kevinlincg/discussions/new)!
-- 🚀 
-- 🚀 
-- 🚀 
-- 🚀 
 
 ---
 
