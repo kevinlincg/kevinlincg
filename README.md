@@ -19,16 +19,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 November 2022 - To: 20 December 2022
+From: 09 November 2022 - To: 21 December 2022
 
-Total Time: 90 hrs 23 mins
+Total Time: 94 hrs 25 mins
 
-Go               85 hrs 19 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.39 %
-TOML             1 hr 22 mins    -------------------------   01.52 %
-HTML             1 hr 19 mins    -------------------------   01.46 %
-JSON             45 mins         -------------------------   00.85 %
-YAML             38 mins         -------------------------   00.70 %
-Markdown         19 mins         -------------------------   00.36 %
+Go               89 hrs 15 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.53 %
+TOML             1 hr 22 mins    -------------------------   01.45 %
+HTML             1 hr 19 mins    -------------------------   01.40 %
+JSON             51 mins         -------------------------   00.91 %
+YAML             38 mins         -------------------------   00.67 %
+Markdown         19 mins         -------------------------   00.34 %
 ```
 
 <!--END_SECTION:waka-->
