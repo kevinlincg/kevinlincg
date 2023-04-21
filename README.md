@@ -2,7 +2,7 @@
 
 - 🔭I’m currently working on GameFi, BlockChain, DDD, Game Server
 - 🌱 I’m currently learning golang,k8s
--   :hammer_and_pick: C++ / Golang / TypeScript / Vue / Python
+-   :hammer_and_pick: C++ / Golang / TypeScript / Vue
 - 📫How to reach me: [@kevinlincg](https://twitter.com/kevinlincg) 
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/kevinlincg/kevinlincg/discussions/new)!
 
