@@ -1,7 +1,7 @@
 ### Hi there. I'm Kevin 👋
 
 - 🔭I’m currently working on GameFi, BlockChain, DDD, Game Server
-- 🌱 I’m currently learning AICG / K8S
+- 🌱 I’m currently learning AIGC / K8S
 -   :hammer_and_pick: C++ / Golang / TypeScript / Vue
 - 📫How to reach me: [@kevinlincg](https://twitter.com/kevinlincg) 
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/kevinlincg/kevinlincg/discussions/new)!
