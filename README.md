@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 November 2022 - To: 28 May 2023
+From: 09 November 2022 - To: 29 May 2023
 
 Total Time: 254 hrs 12 mins
 
