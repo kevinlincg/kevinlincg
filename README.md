@@ -19,12 +19,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2022 - To: 09 December 2023
+From: 09 November 2022 - To: 10 December 2023
 
-Total Time: 360 hrs 28 mins
+Total Time: 361 hrs 52 mins
 
-Go               328 hrs 34 mins >>>>>>>>>>>>>>>>>>>>>>>--   91.15 %
-YAML             8 hrs 6 mins    >------------------------   02.25 %
+Go               329 hrs 47 mins >>>>>>>>>>>>>>>>>>>>>>>--   91.14 %
+YAML             8 hrs 6 mins    >------------------------   02.24 %
 TOML             6 hrs 40 mins   -------------------------   01.85 %
 Text             3 hrs 34 mins   -------------------------   00.99 %
 Markdown         3 hrs 29 mins   -------------------------   00.97 %
