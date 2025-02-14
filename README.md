@@ -19,15 +19,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2022 - To: 13 February 2025
+From: 09 November 2022 - To: 14 February 2025
 
-Total Time: 957 hrs 3 mins
+Total Time: 958 hrs 14 mins
 
-Go                  879 hrs 21 mins >>>>>>>>>>>>>>>>>>>>>>>--   91.88 %
+Go                  880 hrs 17 mins >>>>>>>>>>>>>>>>>>>>>>>--   91.87 %
 YAML                16 hrs 12 mins  -------------------------   01.69 %
 TOML                7 hrs 26 mins   -------------------------   00.78 %
 Text                7 hrs 26 mins   -------------------------   00.78 %
-Batchfile           7 hrs 12 mins   -------------------------   00.75 %
+Bash                7 hrs 25 mins   -------------------------   00.77 %
 ```
 
 <!--END_SECTION:waka-->
