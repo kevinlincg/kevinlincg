@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2022 - To: 30 March 2025
+From: 09 November 2022 - To: 31 March 2025
 
-Total Time: 1,035 hrs 36 mins
+Total Time: 1,040 hrs 2 mins
 
-Go                  927 hrs 32 mins >>>>>>>>>>>>>>>>>>>>>>---   89.57 %
-YAML                20 hrs 13 mins  -------------------------   01.95 %
-TypeScript          8 hrs 46 mins   -------------------------   00.85 %
+Go                  929 hrs 30 mins >>>>>>>>>>>>>>>>>>>>>>---   89.37 %
+YAML                20 hrs 15 mins  -------------------------   01.95 %
+TypeScript          10 hrs 50 mins  -------------------------   01.04 %
 Bash                8 hrs 16 mins   -------------------------   00.80 %
 Text                7 hrs 39 mins   -------------------------   00.74 %
 ```
