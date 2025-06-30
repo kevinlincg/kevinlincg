@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2022 - To: 29 June 2025
+From: 09 November 2022 - To: 30 June 2025
 
-Total Time: 1,165 hrs 20 mins
+Total Time: 1,165 hrs 25 mins
 
-Go                         1,002 hrs 38 mins>>>>>>>>>>>>>>>>>>>>>>---   86.04 %
+Go                         1,002 hrs 43 mins>>>>>>>>>>>>>>>>>>>>>>---   86.04 %
 TypeScript                 31 hrs 19 mins  >------------------------   02.69 %
 YAML                       21 hrs 44 mins  -------------------------   01.87 %
 Bash                       12 hrs 46 mins  -------------------------   01.10 %
