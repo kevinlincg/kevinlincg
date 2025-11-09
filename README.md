@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2022 - To: 08 November 2025
+From: 09 November 2022 - To: 09 November 2025
 
 Total Time: 1,201 hrs 57 mins
 
