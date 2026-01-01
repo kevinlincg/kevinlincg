@@ -19,12 +19,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2022 - To: 31 December 2025
+From: 09 November 2022 - To: 01 January 2026
 
-Total Time: 1,262 hrs 20 mins
+Total Time: 1,262 hrs 48 mins
 
-Go                         1,045 hrs 44 mins>>>>>>>>>>>>>>>>>>>>>----   82.84 %
-TypeScript                 57 hrs 1 min    >------------------------   04.52 %
+Go                         1,045 hrs 55 mins>>>>>>>>>>>>>>>>>>>>>----   82.83 %
+TypeScript                 57 hrs 16 mins  >------------------------   04.54 %
 YAML                       25 hrs 53 mins  >------------------------   02.05 %
 JavaScript                 18 hrs 47 mins  -------------------------   01.49 %
 Bash                       13 hrs 34 mins  -------------------------   01.08 %
