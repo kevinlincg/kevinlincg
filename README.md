@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlincg&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="languages" />
+  <img src="https://github-readme-stats-ouuan.vercel.app/api/top-langs/?username=kevinlincg&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="languages" />
 </p>
 
 <p align="center">
