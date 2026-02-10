@@ -48,7 +48,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/api/?username=kevinlincg&theme=darkhub&no-frame=true&row=1&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kevinlincg&theme=darkhub&no-frame=true&column=7" alt="trophy" />
 </p>
 
 ---
