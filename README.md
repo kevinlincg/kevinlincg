@@ -45,22 +45,22 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevinlincg&theme=darkhub&no-frame=true&column=7" alt="trophy" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?theme=dark&hide_border=true&user=kevinlincg" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-ouuan.vercel.app/api?username=kevinlincg&theme=dark&show_icons=true&count_private=true" alt="kevinlincg" />
+  <img src="https://github-readme-stats-ouuan.vercel.app/api?username=kevinlincg&theme=dark&show_icons=true&count_private=true" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlincg&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinlincg&theme=github-dark&hide_border=true&area=true" alt="activity" />
 </p>
 
 ---
